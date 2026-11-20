@@ -1,0 +1,8 @@
+{
+  "author": {
+    "name": "mattpocock"
+  },
+  "description": "Spec, ticket and implementation flows from Matt Pocock: to-spec, to-tickets, triage, wayfinder, implement, prototype and architecture reviews.",
+  "name": "sp-mattpocock-planning",
+  "version": "1.0.0"
+}

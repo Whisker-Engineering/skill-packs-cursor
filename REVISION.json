@@ -1,0 +1,18 @@
+{
+  "catalog_hash": "sha256:ee66d97eb616f5cca797c7134a0de2f1fad582c578a4f0091cd9612c3eeab6eb",
+  "plugins": {
+    "sp-mattpocock-core": {
+      "hash": "sha256:7d31085358890e5adab3a197b2c4eb93682e581bd8594818a75e1bdfdb5b25d0",
+      "version": "1.0.0"
+    },
+    "sp-mattpocock-planning": {
+      "hash": "sha256:5349290eaee6c5ea2ef69b80c29963f216ceed1884829290e7532a11cefa95ca",
+      "version": "1.0.0"
+    },
+    "sp-mattpocock-productivity": {
+      "hash": "sha256:c224997f83ffeae6b6233d9e182880e72445c54dd7e3951debeddffd42a1ab60",
+      "version": "1.0.0"
+    }
+  },
+  "release": "v1.0.0"
+}
