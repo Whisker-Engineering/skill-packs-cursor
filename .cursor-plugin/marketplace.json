@@ -1,0 +1,23 @@
+{
+  "name": "skill-packs",
+  "owner": {
+    "name": "Whisker Engineering"
+  },
+  "plugins": [
+    {
+      "description": "Core engineering skills from Matt Pocock: grilling, debugging, TDD, code review, PRs, research, codebase design and domain modeling.",
+      "name": "sp-mattpocock-core",
+      "source": "./plugins/sp-mattpocock-core"
+    },
+    {
+      "description": "Spec, ticket and implementation flows from Matt Pocock: to-spec, to-tickets, triage, wayfinder, implement, prototype and architecture reviews.",
+      "name": "sp-mattpocock-planning",
+      "source": "./plugins/sp-mattpocock-planning"
+    },
+    {
+      "description": "Productivity skills from Matt Pocock: grill-me, handoffs, teaching, questionnaires, writing for agents, wizards and retros.",
+      "name": "sp-mattpocock-productivity",
+      "source": "./plugins/sp-mattpocock-productivity"
+    }
+  ]
+}
